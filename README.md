@@ -1,7 +1,7 @@
 ChatTCP
 =======
 
-Chat en JAVA para comunica dos o mas computadoras
+Chat en JAVA para comunicar dos o mas computadoras
 
 PROGRAMADO EN IDE NETBEANS 8.0
 JDK versión 1.7
@@ -23,3 +23,8 @@ NOTA: FUNCIONA TAMBIEN COMO HALF-DUPLEX CUANDO SE CAMBIA DE SERVIDOR Y CLIENTE
 
 Full-Duplex:
 Un computador se monta como servidor de comunicacion y luego en distintos computadores se monta un cliente mediante la direccion IP del servidor.
+
+NOTA IMPORTANTE:
+================
+
+Debe agregar como .jar el archivo liquidinf.jar en los dos proyectos para el tema del aspecto visual del CHAT. De otra forma arrojara error al momento de compilar.
