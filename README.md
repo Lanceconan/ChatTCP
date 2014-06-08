@@ -27,4 +27,5 @@ Un computador se monta como servidor de comunicacion y luego en distintos comput
 NOTA IMPORTANTE:
 ================
 
-Debe agregar como .jar el archivo liquidinf.jar en los dos proyectos para el tema del aspecto visual del CHAT. De otra forma arrojara error al momento de compilar.
+Debe agregar como .jar el archivo liquidinf.jar en los dos proyectos para el tema del aspecto visual del CHAT. De otra forma arrojara error al momento de compilar.<br>
+Ubicado en la carpeta de FullDuplex
